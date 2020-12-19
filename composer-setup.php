@@ -1,4 +1,5 @@
 <?php
+//Hello
 
 /*
  * This file is part of Composer.
